@@ -5,7 +5,7 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 ## 🚨 Threat Hunting and Security Operations Projects and Internship Activities
 
-- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/cyberpropirate/threat-hunting-scenario)**
+- **[Threat Hunting and Incident Response Projects (Tor Browser Usage)](https://github.com/cyberpropirate/threat-hunting-scenario)**
 
 <hr/>
 
